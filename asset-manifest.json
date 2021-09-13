@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://darrenyibochang.github.io/csb-n7eor/static/css/main.453a425d.chunk.css",
+    "main.js": "https://darrenyibochang.github.io/csb-n7eor/static/js/main.bc55c3e9.chunk.js",
+    "main.js.map": "https://darrenyibochang.github.io/csb-n7eor/static/js/main.bc55c3e9.chunk.js.map",
+    "runtime-main.js": "https://darrenyibochang.github.io/csb-n7eor/static/js/runtime-main.af9ed70e.js",
+    "runtime-main.js.map": "https://darrenyibochang.github.io/csb-n7eor/static/js/runtime-main.af9ed70e.js.map",
+    "static/js/2.ebbe6624.chunk.js": "https://darrenyibochang.github.io/csb-n7eor/static/js/2.ebbe6624.chunk.js",
+    "static/js/2.ebbe6624.chunk.js.map": "https://darrenyibochang.github.io/csb-n7eor/static/js/2.ebbe6624.chunk.js.map",
+    "index.html": "https://darrenyibochang.github.io/csb-n7eor/index.html",
+    "static/css/main.453a425d.chunk.css.map": "https://darrenyibochang.github.io/csb-n7eor/static/css/main.453a425d.chunk.css.map",
+    "static/js/2.ebbe6624.chunk.js.LICENSE.txt": "https://darrenyibochang.github.io/csb-n7eor/static/js/2.ebbe6624.chunk.js.LICENSE.txt",
+    "static/media/logo.de1a664e.svg": "https://darrenyibochang.github.io/csb-n7eor/static/media/logo.de1a664e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af9ed70e.js",
+    "static/js/2.ebbe6624.chunk.js",
+    "static/css/main.453a425d.chunk.css",
+    "static/js/main.bc55c3e9.chunk.js"
+  ]
+}

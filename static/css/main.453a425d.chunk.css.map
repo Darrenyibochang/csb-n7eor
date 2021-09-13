@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,KACE,QAAS,CACT,SAAU,CACV,+BACF","file":"main.453a425d.chunk.css","sourcesContent":["body {\n  margin: 0;\n  padding: 0;\n  font-family: \"Segoe UI\", \"Roboto\";\n}\n"]}
